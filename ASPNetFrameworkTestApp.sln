@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetFrameworkTestApp", "ASPNetFrameworkTestApp\ASPNetFrameworkTestApp.csproj", "{A4366250-C0F7-4B55-8924-FF383B3932B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4366250-C0F7-4B55-8924-FF383B3932B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4366250-C0F7-4B55-8924-FF383B3932B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4366250-C0F7-4B55-8924-FF383B3932B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4366250-C0F7-4B55-8924-FF383B3932B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3E04FC0-E435-443B-BC27-C3D89790BC64}
+	EndGlobalSection
+EndGlobal
